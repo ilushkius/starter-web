@@ -2,3 +2,4 @@ code/
 .DS-Store/
 *.log
 log/
+*.orig
