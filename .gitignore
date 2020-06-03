@@ -1,2 +1,4 @@
 code/
 .DS-Store/
+*.log
+log/
